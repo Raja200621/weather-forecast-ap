@@ -1,0 +1,9 @@
+com\example\weather\App.class
+com\example\weather\WeatherApiResponse$Weather.class
+com\example\weather\WeatherApiResponse$Wind.class
+com\example\weather\WeatherApiResponse$Main.class
+com\example\weather\Main.class
+com\example\weather\WeatherApiResponse.class
+com\example\weather\WeatherService.class
+com\example\weather\WeatherApiResponse$Sys.class
+com\example\weather\WeatherService$ApiException.class
