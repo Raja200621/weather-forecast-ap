@@ -38,11 +38,6 @@ mvn clean package
 ```bash
 mvn javafx:run
 ```
-
-##  Screenshots
-- ✅ Valid city weather result  
-- ❌ Invalid API key error
-
 ##  Deliverables
 - GUI desktop application
 - Source code
