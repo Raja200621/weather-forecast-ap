@@ -106,7 +106,7 @@ public class App extends Application {
     }
 
     private static String loadApiKey() {
-        String key = System.getenv("OWM_API_KEY");
+        String key = System.getenv("2660f2ebf508c659b32e30de5002fe9bmvn ");
         if (key != null && !key.isBlank()) return key;
 
         try (InputStream in = App.class.getResourceAsStream("/app.properties")) {
