@@ -51,4 +51,4 @@ mvn javafx:run
 - Package as an installer
 
 ---
-👨‍💻 Developed with ❤️ using Java & JavaFX.
+ Developed with using Java & JavaFX.
