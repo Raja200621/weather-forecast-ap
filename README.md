@@ -38,6 +38,10 @@ mvn clean package
 ```bash
 mvn javafx:run
 ```
+## Screanshoot
+<img width="655" height="583" alt="Screenshot 2025-09-08 153102" src="https://github.com/user-attachments/assets/0aabcf25-5210-45f8-bcdf-722159c6914e" />
+
+
 ##  Deliverables
 - GUI desktop application
 - Source code
